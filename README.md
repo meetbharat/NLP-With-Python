@@ -1,2 +1,2 @@
 # NLP-With-Python
-This my work and learning on all the topic under Natural Language Processing.
+This is some of my work and learning on all the topic under Natural Language Processing.
